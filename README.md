@@ -1,4 +1,5 @@
 # ford-focus-regression
+Portuguese README available [here](README_ptbr.md).
 A simple gradient descent algorithm to create a polynomial model that estimates a Ford Focus price in U.K. based only in its mileage. It is programmed and tested on Octave, but most likely works on Matlab too.
 
 The gradient descent implemented here is general enough to solve the polynomial minimization problem.
