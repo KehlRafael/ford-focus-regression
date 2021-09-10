@@ -1,4 +1,4 @@
-% Quadratic linear regression to predict Ford Focus prices in UK
+% Linear regression to predict Ford Focus prices in UK
 % Original complete dataset available at 
 % https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes/
 % Credits on the dataset to Kaggle user adityadesai13
